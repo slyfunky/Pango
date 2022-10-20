@@ -1,6 +1,6 @@
 <h1 align="center">Pango DNS Updater</h1>
-<p align="center">This is a simple batch file DNS updater
-It is using APIs from dynamic DNS services to keep your IP address current and syncing with your hostname provided by those services.
+<p align="center">This is a simple batch file DNS updater.<br>
+It is using APIs from dynamic DNS services to keep your IP address current and syncing with your hostname provided by those services.<br>
 Being an alternative to the DUC (DNS Update Client) of No-IP for Windows.</p>
 
 <hr>
