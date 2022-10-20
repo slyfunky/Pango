@@ -71,3 +71,8 @@ Encoded auth string to <a href="https://codebeautify.org/base64-encode" target="
 <a href="https://dynv6.com/docs/apis" target="_blank">API Request</a></p>
 
 <hr>
+
+<h2>Run</h2>
+
+<img src="https://user-images.githubusercontent.com/9852611/196879637-ed6b5e45-21ad-47cc-9225-3de419920067.png" width="223" height="418"> <img src="https://user-images.githubusercontent.com/9852611/196879721-540f4be5-f455-43a6-831b-d502840133eb.png" width="556" height="314">
+
