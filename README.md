@@ -57,22 +57,17 @@ Encoded auth string to <a href="https://codebeautify.org/base64-encode" target="
 
 <hr>
 
-<h2>Author</h2>
-<p>Renan Araujo</p>
-
-<hr>
-
 <h2>References/Documentation</h2>
 <p>No-IP API<br>
 <a href="https://www.noip.com/pt-BR/integrate/request" target="_blank">Request</a> ,
 <a href="https://www.noip.com/pt-BR/integrate/response" target="_blank">Response</a></p>
 
 <p>Dynv6 API<br>
-<a href="https://dynv6.com/docs/apis" target="_blank">API Request</a></p>
+<a href="https://dynv6.com/docs/apis" target="_blank">Request</a> ,
+<a href="https://gist.github.com/corny/7a07f5ac901844bd20c9" target="_blank">Reference</a></p>
 
 <hr>
 
-<h2>Run</h2>
-
-<img src="https://user-images.githubusercontent.com/9852611/196879637-ed6b5e45-21ad-47cc-9225-3de419920067.png" width="223" height="418"> <img src="https://user-images.githubusercontent.com/9852611/196879721-540f4be5-f455-43a6-831b-d502840133eb.png" width="556" height="314">
+<h2>Running</h2>
+<img src="https://user-images.githubusercontent.com/9852611/196879637-ed6b5e45-21ad-47cc-9225-3de419920067.png" width="223" height="418"> <img src="https://user-images.githubusercontent.com/9852611/199129768-9dbec49d-4dbf-4885-aae1-98d56e2fc63c.png" width="222" height="680"> <img src="https://user-images.githubusercontent.com/9852611/196879721-540f4be5-f455-43a6-831b-d502840133eb.png" width="556" height="314">
 
