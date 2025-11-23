@@ -74,7 +74,7 @@ goto :main
          ::----------------------------------------------------------------------------------------------------------
          if "%ARQUIVO%"=="%IPVQUATRO%" (
                :: Your DNS does not need to be updated.
-             echo Não é necessario seu DNS ser atualizado. ;^)
+             echo Não é necessário seu DNS ser atualizado. ;^)
              ) else (
 			      echo %IPVQUATRO% > "%~dp0ipv4.txt"
 			        :: Updated File
@@ -446,3 +446,4 @@ echo ------------------------------------------------
 rem pause
 timeout /t 10
 rem exit
+
