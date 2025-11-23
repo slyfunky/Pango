@@ -39,7 +39,7 @@ Your credentials must be base64 encoded with ":" joining them into a single stri
 
 <blockquote>
 Example<br>
-Encoded auth string to <a href="https://codebeautify.org/base64-encode" target="_blank">base64</a> format<br>
+Encoded auth string to <b>base64</b> (<a href="https://github.com/progers/base64" target="_blank">offline</a> or <a href="https://codebeautify.org/base64-encode" target="_blank">online</a>) format<br>
 
 | String  | Encoded       |
 | ----------- | ----------------- |
@@ -72,11 +72,11 @@ Encoded auth string to <a href="https://codebeautify.org/base64-encode" target="
 <h4>Directory</h4>
 <p><img src="https://user-images.githubusercontent.com/9852611/196879721-540f4be5-f455-43a6-831b-d502840133eb.png" width="556" height="314"></p>
 
-<hr size="5" width="58%" align="left" >
+<hr size="5" width="56%" align="left" >
 
 <h4>Console</h4>
-<p><img src="https://user-images.githubusercontent.com/9852611/199129768-9dbec49d-4dbf-4885-aae1-98d56e2fc63c.png" width="222" height="680">
-  <img src="https://user-images.githubusercontent.com/9852611/196879637-ed6b5e45-21ad-47cc-9225-3de419920067.png" width="223" height="418"></p>
+<p><img src="https://github.com/user-attachments/assets/77fb4039-fd0a-4e15-8ba5-d29380374d95" alt="Pango_cmd_updated" width="222" height="680">
+  <img src="https://github.com/user-attachments/assets/1f25c41c-0ac4-465e-a81e-a9d3bdfb91dd" alt="Pango_cmd_not_necessary" width="223" height="418"></p>
 
 <hr size="5" width="63%" align="left" >
 
@@ -87,6 +87,7 @@ Encoded auth string to <a href="https://codebeautify.org/base64-encode" target="
 <p><img src="https://user-images.githubusercontent.com/9852611/199132211-3b944c7f-2507-4a8b-bfa8-17494fa51990.png" width="315.50" height="239.50"> <img src="https://user-images.githubusercontent.com/9852611/199132216-2dd7f413-a975-4eef-9697-b1b2fe1cb147.png" width="226.50" height="249.50"></p>
 <p><img src="https://user-images.githubusercontent.com/9852611/199132250-2dceb520-2e5f-42ac-962c-d0262065045a.png" width="315.50" height="239.50"></p>
 <p><img src="https://user-images.githubusercontent.com/9852611/199132262-895db756-f0a1-4484-9690-d108190644f6.png" width="315.50" height="239.50"></p>
+
 
 
 
